@@ -37,6 +37,7 @@ Purpose: to use LSTM’s ability to capture sequence patterns while letting the 
 Models were compared using RMSE and MAE.
 
 Model	            RMSE	  MAE
+
 LSTM + LightGBM	0.0637	0.0510
 
 LSTM + CatBoost	0.0661	0.0529
